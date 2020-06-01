@@ -1,0 +1,64 @@
+body {
+  font-family: helvetica, Arial, sans-serif;
+}
+
+// button {
+//   cursor: pointer;
+// }
+
+// button:disabled {
+//   cursor: default;
+// }
+
+.buttons {
+  border: 1px solid blue;
+  width: fit-content;
+  border-radius: 5px;
+  margin: 0 auto;
+}
+
+.input {
+  width: 396px;
+  height: 70px;
+}
+
+.btn {
+  width: 100px;
+  height: 70px;
+}
+
+.zero {
+  width: 200px;
+  height: 70px;
+}
+
+.parent {
+  position: relative;
+}
+
+.equal {
+  width: 100px;
+  height: 140px;
+  position: absolute;
+  top: 286px;
+}
+
+.del {
+  width: 200px;
+  height: 70px;
+}
+
+.center {
+  margin: 0 auto;
+  font-weight: 40px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+input {
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+}
